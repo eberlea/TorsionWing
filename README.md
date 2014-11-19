@@ -1,6 +1,7 @@
 TorsionWing
 ===========
 This repository contains the supplementary data and code for the following publication: 
+
     Eberle A, Dickerson B, Reinhall P, and Daniel T. (in press). A new twist on gyroscopic sensing: body rotations lead to         torsion in flapping, flexing insect wings. Journal of the Royal Society, Interface. 
 
 As described in our supplementary methods and figures, "we supply all data collected from our experimental and computational models along with the code we wrote for the computational wing model.  We saved all of the data in ‘RawData_Experimental_and_Computational.mat’, which
