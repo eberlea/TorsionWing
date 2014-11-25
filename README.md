@@ -5,7 +5,7 @@ This repository contains the supplementary data and code for the following publi
     Eberle A, Dickerson B, Reinhall P, and Daniel T. (in press). A new twist on gyroscopic sensing: body rotations lead to torsion in flapping, flexing insect wings. Journal of the Royal Society, Interface. 
 
 As described in our supplementary methods and figures, "we supply all data collected from our experimental and computational models along with the code we wrote for the computational wing model.  We saved all of the data in ‘RawData_Experimental_and_Computational.mat’, which
-can be opened using MATLAB (The MathWorks, Natick, MA, USA). The remaining 20 files are scripts that can be executed in MATLAB. We created the following files for the computational model:
+can be opened using MATLAB (The MathWorks, Natick, MA, USA). The remaining 25 files are scripts that can be executed in MATLAB. We created the following files for the computational model:
 
     List of simulations: 
       ‘runsimulations.m’ 
@@ -19,4 +19,4 @@ can be opened using MATLAB (The MathWorks, Natick, MA, USA). The remaining 20 fi
       ‘shape2.m’
       ‘shapefunc2.m’
       
-We used the rest of the files for post processing, where the main figure plotting scripts are ‘plot_Figures4to8.m’ and ‘plot_FiguresS1-S5.m’."
+We used the rest of the files for post processing, where the main figure plotting scripts are ‘plot_Figures4to8.m’ and ‘plot_FiguresS1-S9.m’."
